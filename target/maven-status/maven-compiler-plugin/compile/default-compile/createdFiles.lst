@@ -1,0 +1,8 @@
+com\demo\transactions\model\TransactionsModel.class
+com\demo\transactions\dto\TransactionsDTO.class
+com\demo\transactions\TransactionsApplication.class
+com\demo\transactions\service\TransactionService.class
+com\demo\transactions\configuraiton\ApplicationConfiguration.class
+com\demo\transactions\dto\ResultDTO.class
+com\demo\transactions\controller\TransactionController.class
+com\demo\transactions\repository\TransactionRepository.class
